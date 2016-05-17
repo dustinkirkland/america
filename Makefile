@@ -1,5 +1,6 @@
-america: great
-	@echo DONE!
+america: clean
+	@echo Great Again!
 
-great:
+.PHONY: clean
+clean:
 	rm -f trump
