@@ -6,4 +6,4 @@ wall: funding_from_Mexico
 
 .PHONY: clean
 clean:
-	rm -f trump
+	rm -rf trump
